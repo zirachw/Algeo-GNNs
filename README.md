@@ -1,2 +1,2 @@
 # Algeo-GNNs
-Redirect Repository To Matdis-GNNs
+Redirector Repository To Matdis-GNNs
