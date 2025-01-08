@@ -1,0 +1,3 @@
+[submodule "Matdis-GNNs"]
+	path = Matdis-GNNs
+	url = https://github.com/zirachw/Matdis-GNNs.git
